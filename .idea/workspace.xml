@@ -1,0 +1,809 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9148d3e0-765a-4290-a050-d1e9639ce024" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="crm@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="crm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="crm@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="crm: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Ocrm\exportToHTML" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crm/views/consultant.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="340" column="17" selection-start-line="340" selection-start-column="17" selection-end-line="340" selection-end-column="17" />
+              <folding>
+                <element signature="e#527#978#0" />
+                <element signature="e#580#915#0" />
+                <element signature="e#817#888#0" />
+                <element signature="e#1008#1567#0" />
+                <element signature="e#1070#1504#0" />
+                <element signature="e#1162#1504#0" />
+                <element signature="e#1312#1358#0" />
+                <element signature="e#1619#2121#0" />
+                <element signature="e#1619#1674#1" />
+                <element signature="e#2165#5559#0" />
+                <element signature="e#2697#2709#0" />
+                <element signature="e#3294#3550#0" />
+                <element signature="e#3587#4450#0" />
+                <element signature="e#3649#3654#0" />
+                <element signature="e#4127#4450#0" />
+                <element signature="e#4486#4733#0" />
+                <element signature="e#4639#4644#0" />
+                <element signature="e#4801#5001#0" />
+                <element signature="e#5655#5680#0" />
+                <element signature="e#8202#8501#0" />
+                <element signature="e#8305#8500#0" />
+                <element signature="e#8543#8937#0" />
+                <element signature="e#8631#8850#0" />
+                <element signature="e#8762#8850#0" />
+                <element signature="e#8986#9436#0" />
+                <element signature="e#9152#9348#0" />
+                <element signature="e#9279#9348#0" />
+                <element signature="e#9491#10065#0" />
+                <element signature="e#9657#9957#0" />
+                <element signature="e#9785#9957#0" />
+                <element signature="e#10648#11050#0" />
+                <element signature="e#10789#10956#0" />
+                <element signature="e#10876#10956#0" />
+                <element signature="e#11109#11535#0" />
+                <element signature="e#11259#11440#0" />
+                <element signature="e#11360#11440#0" />
+                <element signature="e#11580#12411#0" />
+                <element signature="e#11626#12172#0" />
+                <element signature="e#12039#12171#0" />
+                <element signature="e#12214#12411#0" />
+                <element signature="e#12483#13186#0" />
+                <element signature="e#12673#13100#0" />
+                <element signature="e#12771#13100#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/crm/consultant/consult_record_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="40" column="37" selection-end-line="78" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/util/pagination.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+              <folding>
+                <element signature="e#13#58#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/crm/consultant/customer_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="89" column="42" selection-start-line="89" selection-start-column="42" selection-end-line="90" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ocrm/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="e#613#654#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/reg.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="e#692#709#0#DjangoTemplate" />
+                <element signature="n#if#1;n#!!top" />
+                <element signature="n#if#2;n#!!top" />
+                <element signature="n#if#3;n#!!top" />
+                <element signature="n#if#4;n#!!top" />
+                <element signature="e#3835#3871#0#DjangoTemplate" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Ocrm/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1479">
+              <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>UserProfile</find>
+      <find>err</find>
+      <find>mark_safe</find>
+      <find>模糊</find>
+      <find>cust</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ocrm/__init__.py" />
+        <option value="$PROJECT_DIR$/static/login.html" />
+        <option value="$PROJECT_DIR$/templates/login.html" />
+        <option value="$PROJECT_DIR$/templates/register.html" />
+        <option value="$PROJECT_DIR$/templates/reg.html" />
+        <option value="$PROJECT_DIR$/crm/admin.py" />
+        <option value="$PROJECT_DIR$/templates/crm/add_customer.html" />
+        <option value="$PROJECT_DIR$/templates/crm/edit_customer.html" />
+        <option value="$PROJECT_DIR$/templates/crm/customer.html" />
+        <option value="$PROJECT_DIR$/Ocrm/urls.py" />
+        <option value="$PROJECT_DIR$/util/pagination.py" />
+        <option value="$PROJECT_DIR$/templates/crm/consult_record_list.html" />
+        <option value="$PROJECT_DIR$/templates/crm/add_consult_record.html" />
+        <option value="$PROJECT_DIR$/crm/views.py" />
+        <option value="$PROJECT_DIR$/templates/crm/customer_list.html" />
+        <option value="$PROJECT_DIR$/crm/teacher.py" />
+        <option value="$PROJECT_DIR$/templates/layout.html" />
+        <option value="$PROJECT_DIR$/templates/crm/teacher/class_list.html" />
+        <option value="$PROJECT_DIR$/crm/urls.py" />
+        <option value="$PROJECT_DIR$/crm/forms.py" />
+        <option value="$PROJECT_DIR$/crm/models.py" />
+        <option value="$PROJECT_DIR$/crm/views/teacher.py" />
+        <option value="$PROJECT_DIR$/Ocrm/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-105" />
+    <option name="width" value="1026" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ocrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ocrm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ocrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ocrm" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ocrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ocrm" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ocrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ocrm" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ocrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ocrm" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ocrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ocrm" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ocrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ocrm" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="crm" type="462c0819:PsiDirectoryNode" />
+              <item name="consultant" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ocrm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ocrm" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lc\PycharmProjects\Ocrm\templates\crm\consultant" />
+      <recent name="C:\Users\lc\PycharmProjects\Ocrm\crm\views" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lc\PycharmProjects\Ocrm\templates\crm" />
+      <recent name="C:\Users\lc\PycharmProjects\Ocrm\templates\crm\teacher" />
+      <recent name="C:\Users\lc\PycharmProjects\Ocrm" />
+      <recent name="C:\Users\lc\PycharmProjects\Ocrm\templates" />
+      <recent name="C:\Users\lc\PycharmProjects\Ocrm\static\imgs" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Ocrm" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Ocrm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="Ocrm.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9148d3e0-765a-4290-a050-d1e9639ce024" name="Default Changelist" comment="" />
+      <created>1561188406270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561188406270</updated>
+      <workItem from="1561188422012" duration="6324000" />
+      <workItem from="1561277837748" duration="7364000" />
+      <workItem from="1561334084098" duration="8256000" />
+      <workItem from="1562200231009" duration="5750000" />
+      <workItem from="1562231344619" duration="2398000" />
+      <workItem from="1562750497493" duration="1877000" />
+      <workItem from="1562919022648" duration="10508000" />
+      <workItem from="1563068375114" duration="10397000" />
+      <workItem from="1563111555942" duration="819000" />
+      <workItem from="1563362529495" duration="210000" />
+      <workItem from="1563414800255" duration="6373000" />
+      <workItem from="1563516061364" duration="1193000" />
+      <workItem from="1563767679590" duration="8857000" />
+      <workItem from="1563860951688" duration="8555000" />
+      <workItem from="1563938912976" duration="13080000" />
+      <workItem from="1567775013282" duration="1516000" />
+      <workItem from="1567813609963" duration="2987000" />
+      <workItem from="1567836941654" duration="4164000" />
+      <workItem from="1567901782469" duration="1066000" />
+      <workItem from="1567915201924" duration="2399000" />
+      <workItem from="1567985246403" duration="1194000" />
+      <workItem from="1568071212061" duration="1097000" />
+      <workItem from="1568074846891" duration="2412000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108586000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-105" y="0" width="1026" height="735" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.25776398" />
+      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.19264069" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.328125" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32854578" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50047666" side_tool="true" weight="0.19601329" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49952334" weight="0.23931624" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32991454" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.33520076" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/login.html" />
+    <entry file="file://$PROJECT_DIR$/Ocrm/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/plugins/bootstrap-3.3.7/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2006">
+          <caret line="134" column="17" selection-start-line="134" selection-start-column="17" selection-end-line="134" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/plugins/font-awesome-4.7.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/imgs/layout/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crm/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/user_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#54#485#0#HTML" />
+            <element signature="e#491#846#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/customer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/edit_customer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/add_consult_record.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/ca259e35-062c-47bb-82cc-cc0c6b18d7a7/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/enrollment.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/edit_consult_record.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/enrollment_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="33" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crm/tests.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ocrm/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/teacher/course_list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/teacher/study_record_list.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/form.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/teacher/class_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crm/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="45" column="45" selection-start-line="45" selection-start-column="45" selection-end-line="45" selection-end-column="45" />
+          <folding>
+            <element signature="e#1#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://429a52a9-1372-4ac8-82a1-5a3a38467d88/schema/crm/table/crm_userprofile">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true">
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/429a52a9-1372-4ac8-82a1-5a3a38467d88/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crm/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="222" selection-start-line="222" selection-end-line="222" />
+          <folding>
+            <element signature="e#422#500#0" />
+            <element signature="e#525#630#0" />
+            <element signature="e#648#961#0" />
+            <element signature="e#989#1154#0" />
+            <element signature="e#1180#1321#0" />
+            <element signature="e#1343#1521#0" />
+            <element signature="e#1546#1729#0" />
+            <element signature="e#1749#2086#0" />
+            <element signature="e#2124#5140#0" />
+            <element signature="e#2124#2143#1" />
+            <element signature="e#3999#4058#0" />
+            <element signature="e#4096#4153#0" />
+            <element signature="e#4190#4527#0" />
+            <element signature="e#4203#4349#0" />
+            <element signature="e#4565#4623#0" />
+            <element signature="e#4660#5065#0" />
+            <element signature="e#4829#5065#0" />
+            <element signature="e#5098#5140#0" />
+            <element signature="e#5176#5449#0" />
+            <element signature="e#5176#5195#1" />
+            <element signature="e#5373#5401#0" />
+            <element signature="e#5433#5449#0" />
+            <element signature="e#5493#5661#0" />
+            <element signature="e#5493#5514#1" />
+            <element signature="e#5699#6782#0" />
+            <element signature="e#5699#5718#1" />
+            <element signature="e#6489#6578#0" />
+            <element signature="e#6610#6689#0" />
+            <element signature="e#6728#6782#0" />
+            <element signature="e#6823#7296#0" />
+            <element signature="e#6823#6844#1" />
+            <element signature="e#7335#8216#0" />
+            <element signature="e#7335#7354#1" />
+            <element signature="e#8167#8216#0" />
+            <element signature="e#8258#9528#0" />
+            <element signature="e#8258#8279#1" />
+            <element signature="e#9159#9190#0" />
+            <element signature="e#9569#10503#0" />
+            <element signature="e#10378#10419#0" />
+            <element signature="e#10453#10503#0" />
+            <element signature="e#10542#11261#0" />
+            <element signature="e#10542#10562#1" />
+            <element signature="e#11215#11261#0" />
+            <element signature="e#11305#12581#0" />
+            <element signature="e#11403#11845#0" />
+            <element signature="e#11403#11496#1" />
+            <element signature="e#11923#12089#0" />
+            <element signature="e#12167#12581#0" />
+            <element signature="e#12704#12909#0" />
+            <element signature="e#12772#12886#0" />
+            <element signature="e#12953#13317#0" />
+            <element signature="e#12953#13045#1" />
+            <element signature="e#13094#13300#0" />
+            <element signature="e#13177#13242#0" />
+            <element signature="e#13369#13749#0" />
+            <element signature="e#13369#13461#1" />
+            <element signature="e#13510#13732#0" />
+            <element signature="e#13601#13674#0" />
+            <element signature="e#13788#13958#0" />
+            <element signature="e#13942#13958#0" />
+            <element signature="e#14020#16008#0" />
+            <element signature="e#14767#14825#0" />
+            <element signature="e#14864#14936#0" />
+            <element signature="e#14976#15052#0" />
+            <element signature="e#15112#15132#0" />
+            <element signature="e#15182#15400#0" />
+            <element signature="e#15182#15231#0" />
+            <element signature="e#15456#15678#0" />
+            <element signature="e#15456#15505#0" />
+            <element signature="e#15597#15658#0" />
+            <element signature="e#15731#15979#0" />
+            <element signature="e#15731#15798#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crm/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#137#323#0" />
+            <element signature="e#371#1830#0" />
+            <element signature="e#2290#2960#0" />
+            <element signature="e#3009#3499#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/add_customer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crm/views/teacher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#57#0" expanded="true" />
+            <element signature="e#366#1363#0" />
+            <element signature="e#1416#1938#0" />
+            <element signature="e#1970#4152#0" />
+            <element signature="e#4209#4916#0" />
+            <element signature="e#5018#5437#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ocrm/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="e#613#654#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/reg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+          <folding>
+            <element signature="e#692#709#0#DjangoTemplate" />
+            <element signature="n#if#1;n#!!top" />
+            <element signature="n#if#2;n#!!top" />
+            <element signature="n#if#3;n#!!top" />
+            <element signature="n#if#4;n#!!top" />
+            <element signature="e#3835#3871#0#DjangoTemplate" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ocrm/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="1" selection-start-line="87" selection-start-column="1" selection-end-line="87" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/util/pagination.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="e#13#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/customer_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="89" column="42" selection-start-line="89" selection-start-column="42" selection-end-line="90" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/crm/consultant/consult_record_list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="40" column="37" selection-end-line="78" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crm/views/consultant.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="340" column="17" selection-start-line="340" selection-start-column="17" selection-end-line="340" selection-end-column="17" />
+          <folding>
+            <element signature="e#527#978#0" />
+            <element signature="e#580#915#0" />
+            <element signature="e#817#888#0" />
+            <element signature="e#1008#1567#0" />
+            <element signature="e#1070#1504#0" />
+            <element signature="e#1162#1504#0" />
+            <element signature="e#1312#1358#0" />
+            <element signature="e#1619#2121#0" />
+            <element signature="e#1619#1674#1" />
+            <element signature="e#2165#5559#0" />
+            <element signature="e#2697#2709#0" />
+            <element signature="e#3294#3550#0" />
+            <element signature="e#3587#4450#0" />
+            <element signature="e#3649#3654#0" />
+            <element signature="e#4127#4450#0" />
+            <element signature="e#4486#4733#0" />
+            <element signature="e#4639#4644#0" />
+            <element signature="e#4801#5001#0" />
+            <element signature="e#5655#5680#0" />
+            <element signature="e#8202#8501#0" />
+            <element signature="e#8305#8500#0" />
+            <element signature="e#8543#8937#0" />
+            <element signature="e#8631#8850#0" />
+            <element signature="e#8762#8850#0" />
+            <element signature="e#8986#9436#0" />
+            <element signature="e#9152#9348#0" />
+            <element signature="e#9279#9348#0" />
+            <element signature="e#9491#10065#0" />
+            <element signature="e#9657#9957#0" />
+            <element signature="e#9785#9957#0" />
+            <element signature="e#10648#11050#0" />
+            <element signature="e#10789#10956#0" />
+            <element signature="e#10876#10956#0" />
+            <element signature="e#11109#11535#0" />
+            <element signature="e#11259#11440#0" />
+            <element signature="e#11360#11440#0" />
+            <element signature="e#11580#12411#0" />
+            <element signature="e#11626#12172#0" />
+            <element signature="e#12039#12171#0" />
+            <element signature="e#12214#12411#0" />
+            <element signature="e#12483#13186#0" />
+            <element signature="e#12673#13100#0" />
+            <element signature="e#12771#13100#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
